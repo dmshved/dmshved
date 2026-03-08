@@ -1,17 +1,30 @@
-### Hi there, I'm Dmytro Shved
+## Hi there, I'm Dmytro Shved
 
-Software engineer passionate about solving complex problems and building user-focused projects with clean, readable, and easily scalable code.
+Backend developer passionate about solving complex problems and building projects with clean, readable, and easily scalable code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0073b1?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/dmytro-shved/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-333?logo=stackoverflow&style=flat-square&logoColor=FE7A16)](https://stackoverflow.com/users/30065272/dmytro-shved)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=d.shved.wrk@gmail.com&tf=cm)
 
-### Technologies
-![C#](https://img.shields.io/badge/C%23-690081?style=flat-square&logo=c-sharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-690081?style=flat-square&logo=.net) 
-![VueJs](https://img.shields.io/badge/Vue-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+## What I'm Working On
+
+- **Building [bookrest](https://github.com/dmshved/bookrest) API as my pet-project**
+- **Learning Docker and exploring Kubernetes**
+
+## Skills
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="MSQL Server" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" width="40" height="40" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" width="40" height="40"/>
+</div>
