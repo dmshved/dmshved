@@ -11,6 +11,9 @@ Backend developer passionate about solving complex problems and building project
 - **Building [bookrest](https://github.com/dmshved/bookrest) API as my pet-project**
 - **Learning Docker and exploring Kubernetes**
 
+## My Deep Dive Posts
+- [Deep dive into DbContext in ASP.NET Core Identity](https://dmytroshved.com/blog/identity-dbcontext/)
+
 ## Skills
 
 <div align="center">
