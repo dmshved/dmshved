@@ -12,6 +12,7 @@ Backend developer passionate about solving complex problems and building project
 - **Learning Docker and exploring Kubernetes**
 
 ## My Deep Dive Posts
+- [Deep dive into OpenApi in ASP.NET Core](https://dmytroshved.com/blog/deep-dive-into-openapi-in-aspnetcore/)
 - [Deep dive into DbContext in ASP.NET Core Identity](https://dmytroshved.com/blog/identity-dbcontext/)
 
 ## Skills
