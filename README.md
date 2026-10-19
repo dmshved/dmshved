@@ -19,8 +19,8 @@ Backend developer passionate about solving complex problems and building project
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" /> -->
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" />
@@ -28,9 +28,9 @@ Backend developer passionate about solving complex problems and building project
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="40" height="40" />
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="40" height="40" /> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub Actions" width="40" height="40"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub Actions" width="40" height="40"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" width="40" height="40" />
 </div>
